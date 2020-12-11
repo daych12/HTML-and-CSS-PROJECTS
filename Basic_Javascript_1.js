@@ -12,11 +12,10 @@
 <script>
 	function My_First_Function() {
 		var String="Kiss me, I'm Irish";
-		var result= string.fontcolor("green");
-		document.getElementBYID("Irish").inner HTML=
+		var result= String.fontcolor("green");
+		document.getElementByld("Irish").innerHTML=
 		result;
 	}
 </script>
 		
 	</body>
-</html>
