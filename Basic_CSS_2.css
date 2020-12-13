@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+p {
+  color: red;
+  background: red;
+  font-weight: bold;
+  text-align: center;
+}
+
+h1 {
+	color: white;
+	text-shadow: 2px 2px 4px #000000;
+}
+</body>
+</html>
