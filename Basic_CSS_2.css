@@ -1,6 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<body>
+
 p {
   color: red;
   background: red;
@@ -9,8 +7,6 @@ p {
 }
 
 h1 {
-	color: white;
+	color: black;
 	text-shadow: 2px 2px 4px #000000;
 }
-</body>
-</html>
