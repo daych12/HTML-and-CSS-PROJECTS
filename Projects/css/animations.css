@@ -25,11 +25,11 @@
     transition-delay: 0s;
     transition-timing-function: ease-in-out;
 }
-.menu li:hover: {
+.menu li:hover {
     color: #f00;
-    background-color: rgba(100,65,0,.3)
+    background-color: rgba(100,65,0,.3);
+
 }
-]
 /*Gallery Section Animation */
 .photo {
     position: relative;
@@ -56,7 +56,7 @@
 }
 .photo-overlay {
     color: #fff;
-    postion: absolute;
+    position: absolute;
     top: 0;
     right: 0;
     bottom: 0;
@@ -67,12 +67,12 @@
     align-items: center;
     background: rgba(0,0,0,.5);
 }
-white-head {
+.white-head {
     color: #C9BDAA;
     margin-top: 5%;
-
 }
-]
+
+
 /*Photo Overlay Transitions */
 .photo-overlay {
     opacity: 0;
@@ -80,9 +80,9 @@ white-head {
     border-radius: 10px;
     cursor: pointer;
 }
-.photo-overlay:hover {
+    .photo-overlay:hover {
     opacity: 1;
-}
+    }
 .photo img {
     transition: transition .5s;
     transform-origin: 50% 50%;
